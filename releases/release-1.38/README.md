@@ -51,6 +51,7 @@ The v1.38 release cycle is proposed as follows:
 | Start Enhancements Tracking                        | Enhancements Lead             | Monday 31st August 2026                                                      | week 1   |                                                                          |
 | Schedule finalized                                 | Lead                          | Friday 4th September 2026                                                    | week 1   |                                                                          |
 | Team finalized                                     | Lead                          | Friday 4th September 2026                                                    | week 1   |                                                                          |
+| KubeCon China                                      |                               | Monday 7th - Wednesday 9th September 2026                                    | week 2   |                                                                          |
 | Begin APAC-friendly meetings                       | ALL                           | Wednesday 9th September 2026                                                 | week 2   |                                                                          |
 | Call for PRR and Enhancement Freeze [Exceptions]   | Lead                          | Thursday 17th September 2026                                                 | week 3   |                                                                          |
 | v1.38.0-alpha.1 released                           | Branch Manager                | Wednesday 23rd September 2026                                                | week 4   |                                                                          |
@@ -64,6 +65,7 @@ The v1.38 release cycle is proposed as follows:
 | v1.38.0-beta.0 released                            | Branch Manager                | Wednesday 4th November 2026                                                  | week 10  |                                                                          |
 | Begin [Feature blog freeze] - Open placeholder PRs | Comms Lead                    | Wednesday 4th November 2026 (AoE) / Thursday 5th November 2026 12:00 UTC     | week 10  |                                                                          |
 | Call for Code Freeze [Exceptions]                  | Lead                          | Friday 6th November 2026                                                     | week 10  |                                                                          |
+| KubeCon NA                                         |                               | Monday 9th - Thursday 12th November 2026                                     | week 11  |                                                                          |
 | **Begin [Code Freeze] and [Test Freeze]**          | Branch Manager                | Wednesday 18th November 2026 (AoE) / Thursday 19th November 2026 12:00 UTC   | week 12  |                                                                          |
 | **Begin [Burndown]** (Meetings on Mon / Wed / Fri) | ALL                           | Monday 23rd November 2026                                                    | week 13  |                                                                          |
 | Deprecations and Removals blog published           | Comms Lead                    | Monday 23rd November 2026                                                    | week 13  |                                                                          |
@@ -88,7 +90,7 @@ The v1.38 release cycle is proposed as follows:
 
 Please refer to the [release phases document](../release_phases.md).
 
-[Production Readiness Freeze]: ../release_phases.md#prr-freeze
+[KEP Readiness Deadline]: ../release_phases.md#kep-readiness-deadline
 
 [Enhancements Freeze]: ../release_phases.md#enhancements-freeze
 
