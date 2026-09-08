@@ -36,7 +36,7 @@ The v1.38 release cycle is proposed as follows:
 - **Wednesday 4th November 2026 (AoE) / Thursday 5th November 2026, 12:00 UTC**: Week 10 — [Feature blog freeze][Feature blog freeze] 
 - **Monday 9th - Thursday 12th November 2026**: Week 11 — KubeCon NA
 - **Monday 16th November 2026 (AoE) / Tuesday 17th November 2026, 12:00 UTC**: Week 12 — [Code Freeze][Code Freeze] and [Test Freeze][Test Freeze]
-- **Wednesday 2nd December 2026 (AoE) / Thursday 3rd December 2026, 12:00 UTC**: Week 14 — [Docs Freeze][Docs Freeze]
+- **Thursday 3rd December 2026 (AoE) / Friday 4rd December 2026, 12:00 UTC**: Week 14 — [Docs Freeze][Docs Freeze]
 - **Wednesday 16th December 2026**: Week 16 — Kubernetes v1.38.0 released
 
 > [!NOTE]
@@ -73,11 +73,11 @@ The v1.38 release cycle is proposed as follows:
 | Release Highlights deadline                                         | Comms Lead                    | Tuesday 24th November 2026                                                  | week 13  |                                                                          |
 | Feature blogs ready to review                                       | Enhancement Owner / SIG Leads | Monday 30th November 2026                                                   | week 14  |                                                                          |
 | **Burndown Meetings daily (Tue & Thu over Slack)**                  | ALL                           | Monday 30th November 2026                                                   | week 14  |                                                                          |
-| release-1.38 branch created                                         | Branch Manager                | Wednesday 2nd December 2026                                                 | week 14  |                                                                          |
-| release-1.38 jobs created                                           | Branch Manager                | Wednesday 2nd December 2026                                                 | week 14  |                                                                          |
+| release-1.38 branch created                                         | Branch Manager                | Thursday 3rd December 2026                                                  | week 14  |                                                                          |
+| release-1.38 jobs created                                           | Branch Manager                | Thursday 3rd December 2026                                                  | week 14  |                                                                          |
 | v1.38.0-rc.0 released                                               | Branch Manager                | Thursday 3rd December 2026                                                  | week 14  | [1.38-informing], [1.38-blocking], [master-blocking], [master-informing] |
-| Start final draft of Release Notes                                  | Docs Lead                     | Wednesday 2nd December 2026                                                 | week 14  |                                                                          |
-| **[Docs Freeze]**                                                   | Docs Lead                     | Wednesday 2nd December 2026 (AoE) / Thursday 3rd December 2026 12:00 UTC    | week 14  |                                                                          |
+| Start final draft of Release Notes                                  | Docs Lead                     | Thursday 3rd December 2026                                                  | week 14  |                                                                          |
+| **[Docs Freeze]**                                                   | Docs Lead                     | Thursday 3rd December 2026 (AoE) / Friday 4th December 2026 12:00 UTC       | week 14  |                                                                          |
 | v1.38.0-rc.1 released                                               | Branch Manager                | Wednesday 9th December 2026                                                 | week 15  |                                                                          |
 | Release blog ready to review                                        | Comms / Docs                  | Thursday 10th December 2026 (AoE) / Friday 11th December 2026 12:00 UTC     | week 15  |                                                                          |
 | Final Release Notes complete / PR Merged                            | Docs Lead                     | Monday 14th December 2026 (AoE) / Tuesday 15th December 2026 12:00 UTC      | week 16  |                                                                          |
